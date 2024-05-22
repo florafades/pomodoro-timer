@@ -1,7 +1,9 @@
 this pomodoro timer follows a 25 minute on, 5 minute off productivity model, with extended breaks in between. 
 
 pomodoro = 25 minutes on
+
 short break = 5 minutes off
+
 long break = 20 minutes off
 
 1. **start** --> this button starts the timer. the timer defaults at 25 minutes. it follows a 25-5-25-5-25-5-25-20 rep cycle. 
